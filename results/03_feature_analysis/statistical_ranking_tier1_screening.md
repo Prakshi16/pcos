@@ -1,0 +1,21 @@
+| feature          | test       |        score |     p_value |   stat_rank |   mutual_info |   mi_rank |
+|:-----------------|:-----------|-------------:|------------:|------------:|--------------:|----------:|
+| weight_gain      | chi_square | 57.8735      | 2.79526e-14 |           3 |    0.11295    |         1 |
+| skin_darkening   | chi_square | 67.9961      | 1.63818e-16 |           1 |    0.102164   |         2 |
+| hair_growth      | chi_square | 66.3594      | 3.75761e-16 |           2 |    0.101758   |         3 |
+| cycle_irregular  | chi_square | 42.3813      | 7.51037e-11 |           4 |    0.0902312  |         4 |
+| bp_systolic      | ANOVA_F    |  0.0958832   | 0.756977    |          17 |    0.0553062  |         5 |
+| pimples          | chi_square | 17.8021      | 2.45108e-05 |           7 |    0.0515157  |         6 |
+| waist_hip_ratio  | ANOVA_F    |  0.546189    | 0.460282    |          15 |    0.0486078  |         7 |
+| cycle_length     | ANOVA_F    | 16.7154      | 5.18385e-05 |           8 |    0.047956   |         8 |
+| bmi              | ANOVA_F    | 20.7026      | 6.98889e-06 |           6 |    0.0371142  |         9 |
+| bp_diastolic     | ANOVA_F    |  0.000315448 | 0.985838    |          19 |    0.0345831  |        10 |
+| hair_loss        | chi_square |  8.18804     | 0.00421674  |          10 |    0.0344376  |        11 |
+| resp_rate        | ANOVA_F    |  0.417748    | 0.518408    |          16 |    0.0325345  |        12 |
+| fast_food        | chi_square | 27.6311      | 1.46798e-07 |           5 |    0.0242285  |        13 |
+| pregnant         | chi_square |  0.00171146  | 0.967001    |          18 |    0.0213012  |        14 |
+| num_abortions    | ANOVA_F    |  0.641525    | 0.423602    |          14 |    0.010227   |        15 |
+| marriage_years   | ANOVA_F    |  6.88502     | 0.00900138  |          11 |    0.00625115 |        16 |
+| age              | ANOVA_F    | 11.4079      | 0.0007979   |           9 |    0.00227487 |        17 |
+| pulse_rate       | ANOVA_F    |  4.91646     | 0.0271241   |          12 |    0          |        18 |
+| regular_exercise | chi_square |  1.42183     | 0.233102    |          13 |    0          |        18 |

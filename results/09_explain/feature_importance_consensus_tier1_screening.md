@@ -1,0 +1,21 @@
+| feature          |   mi_rank |   stat_rank |   rf_shap_rank |   lr_shap_rank |   avg_rank | consensus_top10   |
+|:-----------------|----------:|------------:|---------------:|---------------:|-----------:|:------------------|
+| skin_darkening   |         2 |           1 |              1 |              1 |     1.25   | True              |
+| weight_gain      |         1 |           3 |              2 |              2 |     2      | True              |
+| hair_growth      |         3 |           2 |              3 |              5 |     3.25   | True              |
+| cycle_irregular  |         4 |           4 |              6 |              3 |     4.25   | True              |
+| pimples          |         6 |           7 |              7 |              6 |     6.5    | True              |
+| fast_food        |        13 |           5 |              5 |              4 |     6.75   | True              |
+| cycle_length     |         8 |           8 |              4 |              8 |     7      | True              |
+| bmi              |         9 |           6 |             10 |             10 |     8.75   | True              |
+| age              |        17 |           9 |              8 |              7 |    10.25   | True              |
+| waist_hip_ratio  |         7 |          15 |             11 |            nan |    11      | True              |
+| marriage_years   |        16 |          11 |              9 |              9 |    11.25   | False             |
+| hair_loss        |        11 |          10 |             13 |             12 |    11.5    | False             |
+| bp_systolic      |         5 |          17 |             17 |            nan |    13      | False             |
+| pulse_rate       |        18 |          12 |             14 |             11 |    13.75   | False             |
+| regular_exercise |        18 |          13 |             12 |            nan |    14.3333 | False             |
+| bp_diastolic     |        10 |          19 |             15 |            nan |    14.6667 | False             |
+| resp_rate        |        12 |          16 |             16 |            nan |    14.6667 | False             |
+| num_abortions    |        15 |          14 |             19 |            nan |    16      | False             |
+| pregnant         |        14 |          18 |             18 |            nan |    16.6667 | False             |

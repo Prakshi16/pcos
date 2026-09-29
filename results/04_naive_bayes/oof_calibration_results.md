@@ -1,0 +1,20 @@
+| tier            | strategy   | calibration   |   oof_brier |   oof_auc |   threshold |
+|:----------------|:-----------|:--------------|------------:|----------:|------------:|
+| tier1_screening | none       | raw           |   0.146844  |  0.87373  |   0.0512317 |
+| tier1_screening | none       | sigmoid       |   0.127147  |  0.868343 |   0.124046  |
+| tier1_screening | none       | isotonic      |   0.119832  |  0.871938 |   0.14219   |
+| tier1_screening | smote      | raw           |   0.148175  |  0.873267 |   0.0288733 |
+| tier1_screening | smote      | sigmoid       |   0.127367  |  0.866199 |   0.118984  |
+| tier1_screening | smote      | isotonic      |   0.118874  |  0.869781 |   0.142222  |
+| tier2_lab       | none       | raw           |   0.140487  |  0.873462 |   0.0506752 |
+| tier2_lab       | none       | sigmoid       |   0.124778  |  0.868246 |   0.108987  |
+| tier2_lab       | none       | isotonic      |   0.123616  |  0.871512 |   0.119581  |
+| tier2_lab       | smote      | raw           |   0.146196  |  0.874473 |   0.0439105 |
+| tier2_lab       | smote      | sigmoid       |   0.127709  |  0.867612 |   0.107056  |
+| tier2_lab       | smote      | isotonic      |   0.125474  |  0.870354 |   0.111634  |
+| tier3_full      | none       | raw           |   0.095563  |  0.955448 |   0.228037  |
+| tier3_full      | none       | sigmoid       |   0.0887687 |  0.939168 |   0.177855  |
+| tier3_full      | none       | isotonic      |   0.0807331 |  0.9515   |   0.321242  |
+| tier3_full      | smote      | raw           |   0.0920808 |  0.951963 |   0.207626  |
+| tier3_full      | smote      | sigmoid       |   0.0862713 |  0.939412 |   0.162596  |
+| tier3_full      | smote      | isotonic      |   0.0787531 |  0.945785 |   0.237865  |

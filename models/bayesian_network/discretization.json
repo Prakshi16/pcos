@@ -1,0 +1,24 @@
+{
+  "amh_tertiles": [
+    2.559999999999999,
+    5.649999999999998
+  ],
+  "bmi_cuts": [
+    23,
+    27.5
+  ],
+  "lh_fsh_high_cutoff": 2.0,
+  "follicle_high_cutoff": 12,
+  "impute": {
+    "bmi_median": 24.127541189713902,
+    "lh_fsh_ratio_median": 0.457286432160804,
+    "amh_median": 3.7,
+    "follicle_left_median": 5.0,
+    "follicle_right_median": 6.0,
+    "weight_gain_mode": 0.0,
+    "cycle_irregular_mode": 0.0,
+    "hair_growth_mode": 0.0,
+    "pimples_mode": 0.0,
+    "skin_darkening_mode": 0.0
+  }
+}

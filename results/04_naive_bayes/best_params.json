@@ -1,0 +1,32 @@
+{
+  "tier1_screening": {
+    "none": {
+      "clf__var_smoothing": 1e-12,
+      "select__k": "all"
+    },
+    "smote": {
+      "clf__var_smoothing": 0.001,
+      "select__k": 12
+    }
+  },
+  "tier2_lab": {
+    "none": {
+      "clf__var_smoothing": 0.001,
+      "select__k": 8
+    },
+    "smote": {
+      "clf__var_smoothing": 1e-12,
+      "select__k": 8
+    }
+  },
+  "tier3_full": {
+    "none": {
+      "clf__var_smoothing": 0.001,
+      "select__k": 12
+    },
+    "smote": {
+      "clf__var_smoothing": 0.001,
+      "select__k": 8
+    }
+  }
+}

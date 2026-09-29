@@ -1,0 +1,281 @@
+{
+  "age": {
+    "canonical_name": "age",
+    "label": "Age (years)",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 21.0,
+    "p50": 31.0,
+    "p99": 45.69
+  },
+  "bmi": {
+    "canonical_name": "bmi",
+    "label": "BMI (kg/m^2)",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 14.53791552463279,
+    "p50": 24.127541189713902,
+    "p99": 35.546358603584
+  },
+  "waist_hip_ratio": {
+    "canonical_name": "waist_hip_ratio",
+    "label": "Waist:Hip ratio",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 0.7868796992481203,
+    "p50": 0.8947368421052632,
+    "p99": 0.974801282051282
+  },
+  "pulse_rate": {
+    "canonical_name": "pulse_rate",
+    "label": "Pulse rate (bpm)",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 70.0,
+    "p50": 72.0,
+    "p99": 80.0
+  },
+  "resp_rate": {
+    "canonical_name": "resp_rate",
+    "label": "Respiratory rate (breaths/min)",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 16.0,
+    "p50": 18.0,
+    "p99": 24.0
+  },
+  "bp_systolic": {
+    "canonical_name": "bp_systolic",
+    "label": "Systolic BP (mmHg)",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 100.0,
+    "p50": 110.0,
+    "p99": 130.0
+  },
+  "bp_diastolic": {
+    "canonical_name": "bp_diastolic",
+    "label": "Diastolic BP (mmHg)",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 70.0,
+    "p50": 80.0,
+    "p99": 80.0
+  },
+  "cycle_irregular": {
+    "canonical_name": "cycle_irregular",
+    "label": "Irregular menstrual cycle",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "cycle_length": {
+    "canonical_name": "cycle_length",
+    "label": "Cycle length (days)",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 2.0,
+    "p50": 5.0,
+    "p99": 11.0
+  },
+  "marriage_years": {
+    "canonical_name": "marriage_years",
+    "label": "Years married",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 1.0,
+    "p50": 7.0,
+    "p99": 23.0
+  },
+  "pregnant": {
+    "canonical_name": "pregnant",
+    "label": "Currently pregnant",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "num_abortions": {
+    "canonical_name": "num_abortions",
+    "label": "Number of prior abortions",
+    "type": "numeric",
+    "tier": "tier1_screening",
+    "p1": 0.0,
+    "p50": 0.0,
+    "p99": 3.0
+  },
+  "weight_gain": {
+    "canonical_name": "weight_gain",
+    "label": "Recent weight gain",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "hair_growth": {
+    "canonical_name": "hair_growth",
+    "label": "Excess hair growth",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "skin_darkening": {
+    "canonical_name": "skin_darkening",
+    "label": "Skin darkening",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "hair_loss": {
+    "canonical_name": "hair_loss",
+    "label": "Hair loss",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "pimples": {
+    "canonical_name": "pimples",
+    "label": "Pimples/acne",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "fast_food": {
+    "canonical_name": "fast_food",
+    "label": "Frequent fast food intake",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "regular_exercise": {
+    "canonical_name": "regular_exercise",
+    "label": "Regular exercise",
+    "type": "binary",
+    "tier": "tier1_screening"
+  },
+  "hb": {
+    "canonical_name": "hb",
+    "label": "Hemoglobin (g/dl)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 9.862,
+    "p50": 11.0,
+    "p99": 13.8
+  },
+  "fsh": {
+    "canonical_name": "fsh",
+    "label": "FSH (mIU/mL)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 1.138,
+    "p50": 4.86,
+    "p99": 14.984999999999982
+  },
+  "lh": {
+    "canonical_name": "lh",
+    "label": "LH (mIU/mL)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 0.10930000000000002,
+    "p50": 2.3,
+    "p99": 10.6725
+  },
+  "lh_fsh_ratio": {
+    "canonical_name": "lh_fsh_ratio",
+    "label": "LH/FSH ratio",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 0.03485878429286885,
+    "p50": 0.45728643216080406,
+    "p99": 2.285224082762411
+  },
+  "tsh": {
+    "canonical_name": "tsh",
+    "label": "TSH (mIU/L)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 0.4431,
+    "p50": 2.275,
+    "p99": 16.8102
+  },
+  "amh": {
+    "canonical_name": "amh",
+    "label": "AMH (ng/mL)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 0.342,
+    "p50": 3.7,
+    "p99": 25.07999999999995
+  },
+  "prl": {
+    "canonical_name": "prl",
+    "label": "Prolactin (ng/mL)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 4.0568,
+    "p50": 21.78,
+    "p99": 75.59949999999998
+  },
+  "vit_d3": {
+    "canonical_name": "vit_d3",
+    "label": "Vitamin D3 (ng/mL)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 9.745,
+    "p50": 26.200000000000003,
+    "p99": 68.69429999999987
+  },
+  "prg": {
+    "canonical_name": "prg",
+    "label": "Progesterone (ng/mL)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 0.1431,
+    "p50": 0.32,
+    "p99": 1.2538
+  },
+  "rbs": {
+    "canonical_name": "rbs",
+    "label": "Random blood sugar (mg/dl)",
+    "type": "numeric",
+    "tier": "tier2_lab",
+    "p1": 70.62,
+    "p50": 100.0,
+    "p99": 144.14
+  },
+  "follicle_left": {
+    "canonical_name": "follicle_left",
+    "label": "Follicle count (left ovary)",
+    "type": "numeric",
+    "tier": "tier3_full",
+    "p1": 0.0,
+    "p50": 5.0,
+    "p99": 18.0
+  },
+  "follicle_right": {
+    "canonical_name": "follicle_right",
+    "label": "Follicle count (right ovary)",
+    "type": "numeric",
+    "tier": "tier3_full",
+    "p1": 0.0,
+    "p50": 6.0,
+    "p99": 18.689999999999998
+  },
+  "follicle_size_left": {
+    "canonical_name": "follicle_size_left",
+    "label": "Avg. follicle size, left (mm)",
+    "type": "numeric",
+    "tier": "tier3_full",
+    "p1": 0.0,
+    "p50": 15.0,
+    "p99": 21.0
+  },
+  "follicle_size_right": {
+    "canonical_name": "follicle_size_right",
+    "label": "Avg. follicle size, right (mm)",
+    "type": "numeric",
+    "tier": "tier3_full",
+    "p1": 5.862,
+    "p50": 16.0,
+    "p99": 21.0
+  },
+  "endometrium": {
+    "canonical_name": "endometrium",
+    "label": "Endometrium thickness (mm)",
+    "type": "numeric",
+    "tier": "tier3_full",
+    "p1": 4.0,
+    "p50": 8.5,
+    "p99": 14.0
+  }
+}

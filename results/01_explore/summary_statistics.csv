@@ -1,0 +1,345 @@
+,,0,1
+Sl. No,count,364.0,177.0
+Sl. No,mean,264.35714285714283,284.66101694915255
+Sl. No,std,161.68877675136093,144.12533333985243
+Sl. No,min,1.0,3.0
+Sl. No,25%,118.5,170.0
+Sl. No,50%,264.5,283.0
+Sl. No,75%,397.25,423.0
+Sl. No,max,540.0,541.0
+Patient File No.,count,364.0,177.0
+Patient File No.,mean,264.35714285714283,284.66101694915255
+Patient File No.,std,161.68877675136093,144.12533333985243
+Patient File No.,min,1.0,3.0
+Patient File No.,25%,118.5,170.0
+Patient File No.,50%,264.5,283.0
+Patient File No.,75%,397.25,423.0
+Patient File No.,max,540.0,541.0
+Age (yrs),count,364.0,177.0
+Age (yrs),mean,32.065934065934066,30.124293785310734
+Age (yrs),std,5.360918053449988,5.292182021582726
+Age (yrs),min,20.0,21.0
+Age (yrs),25%,28.0,27.0
+Age (yrs),50%,32.0,29.0
+Age (yrs),75%,36.0,33.0
+Age (yrs),max,48.0,47.0
+Weight (Kg),count,364.0,177.0
+Weight (Kg),mean,58.0087912087912,62.98587570621469
+Weight (Kg),std,10.046721690014943,12.174501737346176
+Weight (Kg),min,32.0,31.0
+Weight (Kg),25%,52.0,55.0
+Weight (Kg),50%,58.0,62.0
+Weight (Kg),75%,64.0,70.0
+Weight (Kg),max,108.0,104.0
+Height(Cm),count,364.0,177.0
+Height(Cm),mean,156.19793406593405,157.07484745762713
+Height(Cm),std,5.949808406392235,6.1773589701357645
+Height(Cm),min,137.0,143.0
+Height(Cm),25%,152.0,152.0
+Height(Cm),50%,156.0,158.0
+Height(Cm),75%,160.0,161.0
+Height(Cm),max,173.7,180.0
+BMI,count,364.0,177.0
+BMI,mean,23.747396687362638,25.47091870412429
+BMI,std,3.7593779697179817,4.396117132948556
+BMI,min,13.38796706,12.41788175
+BMI,25%,21.358974359999998,23.01117686
+BMI,50%,23.6,25.1
+BMI,75%,26.0909337875,28.3
+BMI,max,38.26530612,38.9
+Blood Group,count,364.0,177.0
+Blood Group,mean,13.755494505494505,13.898305084745763
+Blood Group,std,1.82365767154914,1.8771495126276139
+Blood Group,min,11.0,11.0
+Blood Group,25%,13.0,13.0
+Blood Group,50%,14.0,15.0
+Blood Group,75%,15.0,15.0
+Blood Group,max,18.0,18.0
+Pulse rate(bpm),count,364.0,177.0
+Pulse rate(bpm),mean,72.96428571428571,73.83050847457628
+Pulse rate(bpm),std,5.033369560271099,2.731253514910666
+Pulse rate(bpm),min,13.0,70.0
+Pulse rate(bpm),25%,72.0,72.0
+Pulse rate(bpm),50%,72.0,72.0
+Pulse rate(bpm),75%,74.0,74.0
+Pulse rate(bpm),max,82.0,82.0
+RR (breaths/min),count,364.0,177.0
+RR (breaths/min),mean,19.20054945054945,19.333333333333332
+RR (breaths/min),std,1.709123057490911,1.646851909590298
+RR (breaths/min),min,16.0,16.0
+RR (breaths/min),25%,18.0,18.0
+RR (breaths/min),50%,18.0,20.0
+RR (breaths/min),75%,20.0,20.0
+RR (breaths/min),max,28.0,24.0
+Hb(g/dl),count,364.0,177.0
+Hb(g/dl),mean,11.107390109890108,11.268305084745762
+Hb(g/dl),std,0.8803527664524823,0.8305470935330947
+Hb(g/dl),min,8.5,9.4
+Hb(g/dl),25%,10.5,10.7
+Hb(g/dl),50%,11.0,11.0
+Hb(g/dl),75%,11.525,11.9
+Hb(g/dl),max,14.8,14.0
+Cycle(R/I),count,364.0,177.0
+Cycle(R/I),mean,2.3076923076923075,3.07909604519774
+Cycle(R/I),std,0.7225956837295128,1.0081842797124296
+Cycle(R/I),min,2.0,2.0
+Cycle(R/I),25%,2.0,2.0
+Cycle(R/I),50%,2.0,4.0
+Cycle(R/I),75%,2.0,4.0
+Cycle(R/I),max,4.0,5.0
+Cycle length(days),count,364.0,177.0
+Cycle length(days),mean,5.126373626373627,4.559322033898305
+Cycle length(days),std,1.26424316495244,1.8210060884340893
+Cycle length(days),min,0.0,2.0
+Cycle length(days),25%,5.0,3.0
+Cycle length(days),50%,5.0,5.0
+Cycle length(days),75%,6.0,5.0
+Cycle length(days),max,12.0,12.0
+Marraige Status (Yrs),count,364.0,176.0
+Marraige Status (Yrs),mean,8.057692307692308,6.901704545454546
+Marraige Status (Yrs),std,4.815976757154285,4.696861863376053
+Marraige Status (Yrs),min,0.0,1.0
+Marraige Status (Yrs),25%,4.0,3.0
+Marraige Status (Yrs),50%,7.0,6.0
+Marraige Status (Yrs),75%,11.0,10.0
+Marraige Status (Yrs),max,25.0,30.0
+Pregnant(Y/N),count,364.0,177.0
+Pregnant(Y/N),mean,0.3901098901098901,0.3615819209039548
+Pregnant(Y/N),std,0.48844610983809245,0.4818215735749057
+Pregnant(Y/N),min,0.0,0.0
+Pregnant(Y/N),25%,0.0,0.0
+Pregnant(Y/N),50%,0.0,0.0
+Pregnant(Y/N),75%,1.0,1.0
+Pregnant(Y/N),max,1.0,1.0
+No. of aborptions,count,364.0,177.0
+No. of aborptions,mean,0.3159340659340659,0.23163841807909605
+No. of aborptions,std,0.7508811764155954,0.5513558950996349
+No. of aborptions,min,0.0,0.0
+No. of aborptions,25%,0.0,0.0
+No. of aborptions,50%,0.0,0.0
+No. of aborptions,75%,0.0,0.0
+No. of aborptions,max,5.0,3.0
+I beta-HCG(mIU/mL),count,364.0,177.0
+I beta-HCG(mIU/mL),mean,728.9824368131867,532.0425367231638
+I beta-HCG(mIU/mL),std,3539.6356510077694,2922.864266610795
+I beta-HCG(mIU/mL),min,1.3,1.92
+I beta-HCG(mIU/mL),25%,1.99,1.99
+I beta-HCG(mIU/mL),50%,13.735,70.53
+I beta-HCG(mIU/mL),75%,273.95,346.59
+I beta-HCG(mIU/mL),max,32460.97,30007.0
+II beta-HCG(mIU/mL),count,364.0,176.0
+II beta-HCG(mIU/mL),mean,223.97513736263738,269.0631193181818
+II beta-HCG(mIU/mL),std,1437.024330503945,1911.0393559562478
+II beta-HCG(mIU/mL),min,0.99,1.65
+II beta-HCG(mIU/mL),25%,1.99,1.99
+II beta-HCG(mIU/mL),50%,1.99,1.99
+II beta-HCG(mIU/mL),75%,93.07,100.485
+II beta-HCG(mIU/mL),max,21084.21,25000.0
+FSH(mIU/mL),count,364.0,177.0
+FSH(mIU/mL),mean,19.185956043956043,5.174593220338983
+FSH(mIU/mL),std,264.5441383894746,5.744671459230652
+FSH(mIU/mL),min,0.21,1.0
+FSH(mIU/mL),25%,3.3975,3.23
+FSH(mIU/mL),50%,5.01,4.48
+FSH(mIU/mL),75%,6.56,5.76
+FSH(mIU/mL),max,5052.0,65.4
+LH(mIU/mL),count,364.0,177.0
+LH(mIU/mL),mean,2.6126758241758243,14.402327683615821
+LH(mIU/mL),std,2.1035972795321927,151.4786455409301
+LH(mIU/mL),min,0.02,0.032
+LH(mIU/mL),25%,1.03,1.0
+LH(mIU/mL),50%,2.3049999999999997,2.22
+LH(mIU/mL),75%,3.6025,4.3
+LH(mIU/mL),max,14.69,2018.0
+FSH/LH,count,364.0,177.0
+FSH/LH,mean,7.6801318046901095,5.3104265365932255
+FSH/LH,std,71.93150960731576,25.023422390813217
+FSH/LH,min,0.2282608696,0.002145688801
+FSH/LH,25%,1.5577615825,1.077702703
+FSH/LH,50%,2.3636363635,2.03601108
+FSH/LH,75%,4.1333333332499995,3.338235294
+FSH/LH,max,1372.826087,327.0
+Hip(inch),count,364.0,177.0
+Hip(inch),mean,37.543956043956044,38.91525423728814
+Hip(inch),std,3.7798569737311754,4.191257685484455
+Hip(inch),min,26.0,26.0
+Hip(inch),25%,36.0,36.0
+Hip(inch),50%,38.0,39.0
+Hip(inch),75%,40.0,42.0
+Hip(inch),max,48.0,48.0
+Waist(inch),count,364.0,177.0
+Waist(inch),mean,33.42857142857143,34.68926553672316
+Waist(inch),std,3.4462191752265743,3.7582557642231986
+Waist(inch),min,24.0,24.0
+Waist(inch),25%,32.0,32.0
+Waist(inch),50%,34.0,35.0
+Waist(inch),75%,35.0,37.0
+Waist(inch),max,46.0,47.0
+Waist:Hip Ratio,count,364.0,177.0
+Waist:Hip Ratio,mean,0.8914948522554946,0.892716641402825
+Waist:Hip Ratio,std,0.04632951351888879,0.046438322599470554
+Waist:Hip Ratio,min,0.777,0.7555555556
+Waist:Hip Ratio,25%,0.8571428571,0.8636363636
+Waist:Hip Ratio,50%,0.8947368421,0.8974358974
+Waist:Hip Ratio,75%,0.932196969675,0.9268292683
+Waist:Hip Ratio,max,0.9772727273,0.9791666667
+TSH (mIU/L),count,364.0,177.0
+TSH (mIU/L),mean,3.0078104395604397,2.9267231638418076
+TSH (mIU/L),std,4.1369683333953695,2.823220577391734
+TSH (mIU/L),min,0.04,0.05
+TSH (mIU/L),25%,1.4775,1.57
+TSH (mIU/L),50%,2.165,2.31
+TSH (mIU/L),75%,3.59,3.51
+TSH (mIU/L),max,65.0,22.59
+AMH(ng/mL),count,363.0,177.0
+AMH(ng/mL),mean,4.541495867768595,7.844632768361582
+AMH(ng/mL),std,4.290578634476856,7.791138323124324
+AMH(ng/mL),min,0.16,0.1
+AMH(ng/mL),25%,1.9,2.6
+AMH(ng/mL),50%,3.2,5.9
+AMH(ng/mL),75%,5.335,10.2
+AMH(ng/mL),max,26.8,66.0
+PRL(ng/mL),count,364.0,177.0
+PRL(ng/mL),mean,24.267857142857142,24.431807909604522
+PRL(ng/mL),std,15.4881343482148,13.886783616550364
+PRL(ng/mL),min,0.4,3.64
+PRL(ng/mL),25%,14.727500000000001,14.13
+PRL(ng/mL),50%,21.165,22.9
+PRL(ng/mL),75%,29.5925,30.33
+PRL(ng/mL),max,128.24,111.74
+Vit D3 (ng/mL),count,364.0,177.0
+Vit D3 (ng/mL),mean,29.2950054945055,92.32263276836159
+Vit D3 (ng/mL),std,12.376301936354189,603.9414947356578
+Vit D3 (ng/mL),min,9.01,0.0
+Vit D3 (ng/mL),25%,21.3,19.3
+Vit D3 (ng/mL),50%,26.3,25.45
+Vit D3 (ng/mL),75%,35.69499999999999,33.7
+Vit D3 (ng/mL),max,90.0,6014.66
+PRG(ng/mL),count,364.0,177.0
+PRG(ng/mL),mean,0.727260989010989,0.3717401129943503
+PRG(ng/mL),std,4.639513779563592,0.17379216370681463
+PRG(ng/mL),min,0.11,0.047
+PRG(ng/mL),25%,0.25,0.25
+PRG(ng/mL),50%,0.31,0.32
+PRG(ng/mL),75%,0.46,0.43
+PRG(ng/mL),max,85.0,1.1
+RBS(mg/dl),count,364.0,177.0
+RBS(mg/dl),mean,99.2032967032967,101.13672316384181
+RBS(mg/dl),std,15.504283247514625,23.632788675164253
+RBS(mg/dl),min,60.0,70.0
+RBS(mg/dl),25%,92.0,92.0
+RBS(mg/dl),50%,96.0,100.0
+RBS(mg/dl),75%,107.25,107.0
+RBS(mg/dl),max,225.0,350.0
+Weight gain(Y/N),count,364.0,177.0
+Weight gain(Y/N),mean,0.22802197802197802,0.6836158192090396
+Weight gain(Y/N),std,0.4201343607208718,0.46638409524102054
+Weight gain(Y/N),min,0.0,0.0
+Weight gain(Y/N),25%,0.0,0.0
+Weight gain(Y/N),50%,0.0,1.0
+Weight gain(Y/N),75%,0.0,1.0
+Weight gain(Y/N),max,1.0,1.0
+hair growth(Y/N),count,364.0,177.0
+hair growth(Y/N),mean,0.12912087912087913,0.5706214689265536
+hair growth(Y/N),std,0.335795255576288,0.4963917054285704
+hair growth(Y/N),min,0.0,0.0
+hair growth(Y/N),25%,0.0,0.0
+hair growth(Y/N),50%,0.0,1.0
+hair growth(Y/N),75%,0.0,1.0
+hair growth(Y/N),max,1.0,1.0
+Skin darkening (Y/N),count,364.0,177.0
+Skin darkening (Y/N),mean,0.15384615384615385,0.6214689265536724
+Skin darkening (Y/N),std,0.3612978418647564,0.48639687591919706
+Skin darkening (Y/N),min,0.0,0.0
+Skin darkening (Y/N),25%,0.0,0.0
+Skin darkening (Y/N),50%,0.0,1.0
+Skin darkening (Y/N),75%,0.0,1.0
+Skin darkening (Y/N),max,1.0,1.0
+Hair loss(Y/N),count,364.0,177.0
+Hair loss(Y/N),mean,0.39285714285714285,0.576271186440678
+Hair loss(Y/N),std,0.48905775648433303,0.49555030810024064
+Hair loss(Y/N),min,0.0,0.0
+Hair loss(Y/N),25%,0.0,0.0
+Hair loss(Y/N),50%,0.0,1.0
+Hair loss(Y/N),75%,1.0,1.0
+Hair loss(Y/N),max,1.0,1.0
+Pimples(Y/N),count,364.0,177.0
+Pimples(Y/N),mean,0.3901098901098901,0.6949152542372882
+Pimples(Y/N),std,0.48844610983809245,0.4617495368950621
+Pimples(Y/N),min,0.0,0.0
+Pimples(Y/N),25%,0.0,0.0
+Pimples(Y/N),50%,0.0,1.0
+Pimples(Y/N),75%,1.0,1.0
+Pimples(Y/N),max,1.0,1.0
+Fast food (Y/N),count,363.0,177.0
+Fast food (Y/N),mean,0.38292011019283745,0.7853107344632768
+Fast food (Y/N),std,0.4867700078695417,0.4117714496648798
+Fast food (Y/N),min,0.0,0.0
+Fast food (Y/N),25%,0.0,1.0
+Fast food (Y/N),50%,0.0,1.0
+Fast food (Y/N),75%,1.0,1.0
+Fast food (Y/N),max,1.0,1.0
+Reg.Exercise(Y/N),count,364.0,177.0
+Reg.Exercise(Y/N),mean,0.22802197802197802,0.288135593220339
+Reg.Exercise(Y/N),std,0.4201343607208718,0.4541793595056082
+Reg.Exercise(Y/N),min,0.0,0.0
+Reg.Exercise(Y/N),25%,0.0,0.0
+Reg.Exercise(Y/N),50%,0.0,0.0
+Reg.Exercise(Y/N),75%,0.0,1.0
+Reg.Exercise(Y/N),max,1.0,1.0
+BP _Systolic (mmHg),count,364.0,177.0
+BP _Systolic (mmHg),mean,114.62087912087912,114.7457627118644
+BP _Systolic (mmHg),std,8.102593081971639,5.647585627562202
+BP _Systolic (mmHg),min,12.0,100.0
+BP _Systolic (mmHg),25%,110.0,110.0
+BP _Systolic (mmHg),50%,110.0,110.0
+BP _Systolic (mmHg),75%,120.0,120.0
+BP _Systolic (mmHg),max,140.0,130.0
+BP _Diastolic (mmHg),count,364.0,177.0
+BP _Diastolic (mmHg),mean,76.78021978021978,77.2316384180791
+BP _Diastolic (mmHg),std,6.032605982308929,4.487041205249465
+BP _Diastolic (mmHg),min,8.0,70.0
+BP _Diastolic (mmHg),25%,70.0,70.0
+BP _Diastolic (mmHg),50%,80.0,80.0
+BP _Diastolic (mmHg),75%,80.0,80.0
+BP _Diastolic (mmHg),max,100.0,80.0
+Follicle No. (L),count,364.0,177.0
+Follicle No. (L),mean,4.351648351648351,9.785310734463277
+Follicle No. (L),std,2.8142636550401456,4.308977024710899
+Follicle No. (L),min,0.0,1.0
+Follicle No. (L),25%,2.0,7.0
+Follicle No. (L),50%,4.0,10.0
+Follicle No. (L),75%,6.0,12.0
+Follicle No. (L),max,15.0,22.0
+Follicle No. (R),count,364.0,177.0
+Follicle No. (R),mean,4.637362637362638,10.76271186440678
+Follicle No. (R),std,2.9261487905034707,4.165629043887477
+Follicle No. (R),min,0.0,1.0
+Follicle No. (R),25%,2.0,8.0
+Follicle No. (R),50%,4.0,11.0
+Follicle No. (R),75%,7.0,13.0
+Follicle No. (R),max,16.0,20.0
+Avg. F size (L) (mm),count,364.0,177.0
+Avg. F size (L) (mm),mean,14.687637362637362,15.69774011299435
+Avg. F size (L) (mm),std,3.8697720863589984,2.7309038381063653
+Avg. F size (L) (mm),min,0.0,5.0
+Avg. F size (L) (mm),25%,12.375,14.0
+Avg. F size (L) (mm),50%,15.0,16.0
+Avg. F size (L) (mm),75%,18.0,18.0
+Avg. F size (L) (mm),max,22.0,24.0
+Avg. F size (R) (mm),count,364.0,177.0
+Avg. F size (R) (mm),mean,15.225824175824176,15.916214689265537
+Avg. F size (R) (mm),std,3.4063048222382344,3.088970816250396
+Avg. F size (R) (mm),min,0.0,0.17
+Avg. F size (R) (mm),25%,13.0,14.0
+Avg. F size (R) (mm),50%,15.0,16.0
+Avg. F size (R) (mm),75%,18.0,18.0
+Avg. F size (R) (mm),max,24.0,23.0
+Endometrium (mm),count,364.0,177.0
+Endometrium (mm),mean,8.315027472527472,8.806779661016948
+Endometrium (mm),std,2.258606252337917,1.923866053866625
+Endometrium (mm),min,0.0,4.5
+Endometrium (mm),25%,7.0,7.6
+Endometrium (mm),50%,8.3,8.9
+Endometrium (mm),75%,9.5,10.0
+Endometrium (mm),max,18.0,15.0

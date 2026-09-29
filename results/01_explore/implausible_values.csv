@@ -1,0 +1,11 @@
+row_index,feature,value,plausible_min,plausible_max
+223,pulse_rate,18.0,40,140
+296,pulse_rate,13.0,40,140
+161,bp_systolic,12.0,70,200
+200,bp_diastolic,8.0,40,130
+329,fsh,5052.0,0,200
+455,lh,2018.0,0,200
+274,prl,128.24,0,118
+191,vit_d3,6014.66,0,150
+195,vit_d3,5418.6,0,150
+41,prg,85.0,0,50

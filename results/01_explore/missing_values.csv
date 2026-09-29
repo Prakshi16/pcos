@@ -1,0 +1,45 @@
+column,missing_count,non_numeric_count
+Sl. No,0,0
+Patient File No.,0,0
+PCOS (Y/N),0,0
+Age (yrs),0,0
+Weight (Kg),0,0
+Height(Cm),0,0
+BMI,0,0
+Blood Group,0,0
+Pulse rate(bpm),0,0
+RR (breaths/min),0,0
+Hb(g/dl),0,0
+Cycle(R/I),0,0
+Cycle length(days),0,0
+Marraige Status (Yrs),1,0
+Pregnant(Y/N),0,0
+No. of aborptions,0,0
+I beta-HCG(mIU/mL),0,0
+II beta-HCG(mIU/mL),0,1
+FSH(mIU/mL),0,0
+LH(mIU/mL),0,0
+FSH/LH,0,0
+Hip(inch),0,0
+Waist(inch),0,0
+Waist:Hip Ratio,0,0
+TSH (mIU/L),0,0
+AMH(ng/mL),0,1
+PRL(ng/mL),0,0
+Vit D3 (ng/mL),0,0
+PRG(ng/mL),0,0
+RBS(mg/dl),0,0
+Weight gain(Y/N),0,0
+hair growth(Y/N),0,0
+Skin darkening (Y/N),0,0
+Hair loss(Y/N),0,0
+Pimples(Y/N),0,0
+Fast food (Y/N),1,0
+Reg.Exercise(Y/N),0,0
+BP _Systolic (mmHg),0,0
+BP _Diastolic (mmHg),0,0
+Follicle No. (L),0,0
+Follicle No. (R),0,0
+Avg. F size (L) (mm),0,0
+Avg. F size (R) (mm),0,0
+Endometrium (mm),0,0

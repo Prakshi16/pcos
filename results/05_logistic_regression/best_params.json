@@ -1,0 +1,44 @@
+{
+  "tier1_screening": {
+    "none": {
+      "clf__C": 0.1,
+      "select__k": 12
+    },
+    "class_weight": {
+      "clf__C": 0.1,
+      "select__k": 12
+    },
+    "smote": {
+      "clf__C": 1,
+      "select__k": 12
+    }
+  },
+  "tier2_lab": {
+    "none": {
+      "clf__C": 1,
+      "select__k": 12
+    },
+    "class_weight": {
+      "clf__C": 10,
+      "select__k": 12
+    },
+    "smote": {
+      "clf__C": 1,
+      "select__k": 12
+    }
+  },
+  "tier3_full": {
+    "none": {
+      "clf__C": 1,
+      "select__k": 8
+    },
+    "class_weight": {
+      "clf__C": 1,
+      "select__k": 8
+    },
+    "smote": {
+      "clf__C": 0.1,
+      "select__k": 8
+    }
+  }
+}

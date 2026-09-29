@@ -1,0 +1,23 @@
+{
+  "tier1_screening": {
+    "naive_bayes": "models/tier1_screening/naive_bayes__smote__isotonic.joblib",
+    "logistic_regression": "models/tier1_screening/logistic_regression__smote__sigmoid.joblib",
+    "random_forest": "models/tier1_screening/random_forest__class_weight__isotonic.joblib",
+    "bayesian_network": "models/bayesian_network/bn_model.joblib",
+    "app_default": "naive_bayes"
+  },
+  "tier2_lab": {
+    "naive_bayes": "models/tier2_lab/naive_bayes__none__isotonic.joblib",
+    "logistic_regression": "models/tier2_lab/logistic_regression__none__raw.joblib",
+    "random_forest": "models/tier2_lab/random_forest__none__sigmoid.joblib",
+    "bayesian_network": "models/bayesian_network/bn_model.joblib",
+    "app_default": "logistic_regression"
+  },
+  "tier3_full": {
+    "naive_bayes": "models/tier3_full/naive_bayes__smote__isotonic.joblib",
+    "logistic_regression": "models/tier3_full/logistic_regression__smote__isotonic.joblib",
+    "random_forest": "models/tier3_full/random_forest__none__sigmoid.joblib",
+    "bayesian_network": "models/bayesian_network/bn_model.joblib",
+    "app_default": "logistic_regression"
+  }
+}

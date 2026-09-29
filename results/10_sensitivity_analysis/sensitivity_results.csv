@@ -1,0 +1,17 @@
+analysis,model,variant,test_roc_auc,test_brier
+imputation,logistic_regression,median,0.8778538812785388,0.12435216791475988
+imputation,logistic_regression,knn,0.8789954337899543,0.12400264298762231
+imputation,logistic_regression,iterative,0.8744292237442922,0.12324326192882744
+imputation,random_forest,median,0.8923135464231354,0.1322028718004826
+imputation,random_forest,knn,0.8845129375951293,0.13159959225280327
+imputation,random_forest,iterative,0.881468797564688,0.13130591233435268
+feature_subset,logistic_regression,all_tier2,0.8778538812785388,0.12435216791475988
+feature_subset,logistic_regression,consensus_top10,0.8953576864535768,0.113502727044324
+feature_subset,logistic_regression,anova_top10,0.895738203957382,0.1208897734611603
+feature_subset,random_forest,all_tier2,0.8923135464231354,0.1322028718004826
+feature_subset,random_forest,consensus_top10,0.8896499238964992,0.12291243909103432
+feature_subset,random_forest,anova_top10,0.9143835616438356,0.11880709739955166
+circularity,logistic_regression,tier3_full,0.9421613394216134,0.07944046244362958
+circularity,logistic_regression,tier3_minus_rotterdam,0.8329528158295281,0.15057580704893053
+circularity,random_forest,tier3_full,0.9452054794520548,0.09618927064022742
+circularity,random_forest,tier3_minus_rotterdam,0.8576864535768646,0.15458417838392727
